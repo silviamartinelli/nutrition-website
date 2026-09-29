@@ -1,3 +1,5 @@
+https://silviamartinelli.github.io/nutrition-website/
+
 # Nutri·Neuro – nutrition coaching website
 
 A simple static website (HTML/CSS/JS). No build tools, no database. Works on GitHub Pages.
