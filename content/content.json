@@ -1,0 +1,47 @@
+[
+  {
+    "id": "news-2026-09",
+    "title": "Newsletter #9: Blood sugar and mood",
+    "date": "2026-09-15",
+    "type": "newsletter",
+    "category": "Newsletter",
+    "summary": "Why glucose swings can feel like anxiety, and three simple ways to steady them.",
+    "file": "content/files/newsletter-2026-09.md"
+  },
+  {
+    "id": "guide-gutbrain",
+    "title": "The gut–brain axis: a short guide (PDF)",
+    "date": "2026-08-20",
+    "type": "guide",
+    "category": "Mental wellbeing",
+    "summary": "A 2-page overview of how the gut and brain talk to each other, with practical takeaways.",
+    "file": "content/files/gut-brain-guide.pdf"
+  },
+  {
+    "id": "article-cycle",
+    "title": "Eating with your cycle: what the evidence says",
+    "date": "2026-07-30",
+    "type": "article",
+    "category": "Hormones",
+    "summary": "Separating well-supported ideas from wellness myths about food and the menstrual cycle.",
+    "file": "content/files/eating-with-your-cycle.md"
+  },
+  {
+    "id": "recipe-bowl",
+    "title": "Recipe: omega-3 salmon bowl",
+    "date": "2026-07-10",
+    "type": "recipe",
+    "category": "Recipes",
+    "summary": "A 20-minute brain-friendly dinner with fish, greens and fermented veg.",
+    "file": "content/files/salmon-bowl.md"
+  },
+  {
+    "id": "link-example",
+    "title": "Example external study summary",
+    "date": "2026-06-01",
+    "type": "link",
+    "category": "Research",
+    "summary": "Use type \"link\" to point to any external page or paper.",
+    "file": "https://pubmed.ncbi.nlm.nih.gov/"
+  }
+]

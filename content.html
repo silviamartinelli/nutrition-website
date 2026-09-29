@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Newsletter & Resources – Nutri·Neuro</title>
+<meta name="description" content="Articles, newsletters, guides and recipes to read online or download.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header id="site-header"></header>
+<main>
+
+<div class="container page-head"><p class="eyebrow">Newsletter &amp; resources</p><h1>Learn, read, download</h1>
+<p>Newsletter issues, articles, guides and recipes. Read them online or save a copy.</p></div>
+<section style="padding-top:8px"><div class="container">
+  <div class="toolbar"><div id="filters"></div><input id="search" type="search" placeholder="Search…" aria-label="Search"></div>
+  <div id="cards" class="grid g3"></div>
+</div></section>
+<section class="alt"><div class="container center">
+  <h2>The monthly newsletter</h2>
+  <p class="muted">One science-based idea, one practical tip, one recipe. No spam.</p>
+  <form class="newsletter-form" data-form="newsletter" style="max-width:520px;margin:auto;justify-content:center">
+    <input type="email" name="email" placeholder="Your email" required aria-label="Email">
+    <input class="hp" type="text" name="_gotcha" tabindex="-1" autocomplete="off">
+    <button class="btn">Subscribe</button>
+    <p class="form-msg" style="width:100%"></p>
+  </form>
+</div></section>
+<div class="modal" id="reader" hidden role="dialog" aria-modal="true" aria-labelledby="reader-title">
+  <div class="modal-box">
+    <div class="modal-bar"><h3 id="reader-title"></h3><a id="reader-dl" class="btn small ghost" download>Download</a><button id="reader-close" class="btn small">Close</button></div>
+    <div class="modal-body" id="reader-body"></div>
+  </div>
+</div>
+</main>
+<footer id="site-footer"></footer>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/layout.js"></script>
+<script src="assets/js/markdown.js"></script>
+<script src="assets/js/content.js"></script>
+</body>
+</html>
